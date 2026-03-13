@@ -11,7 +11,7 @@ Termux (Android)
 ISH (IOS)
 1. apk update
 2. apk add python3 git
-3. git clone https://github.com/cpmtoolrussia/carparkingtool/blob/main/test_tg.py
+3. git clone https://github.com/cpmtoolrussia/carparkingtool/blob/main/cpmtoolrussia.py
 4. cd carparkingtool
 5. pip install requests
 6. python3 cpmtoolrussia.py
